@@ -36,7 +36,7 @@ Em breve!!
  ***
  <div>
  <a href="https://github.com/bernardocostaa"</a> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank">
-  <a href="bfvcc01@gmail.com"</a> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  <a href="mailto:bfvcc01@gmail.com"</a> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 
 <div>
 
