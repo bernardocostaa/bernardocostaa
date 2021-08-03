@@ -25,15 +25,20 @@ Em breve!!
 
 
 
+<div>
+<img  hspace="20" src="https://user-images.githubusercontent.com/73037458/128079481-6d9d7560-ea55-4c02-b92b-3943d6b77cd8.png">
+<img hspace="20" src="https://user-images.githubusercontent.com/73037458/128079708-1e2d8f9b-cf5d-4687-919a-f2805e204541.png">
+<img hspace="20" src="https://user-images.githubusercontent.com/73037458/128080162-fa684e91-7fa8-43ef-9774-c5d7c02bd3fb.png">
+<img hspace="20" src="https://user-images.githubusercontent.com/73037458/128080614-72e88d51-f615-4dd0-8768-d2548a8ba202.png">
+<div>
+ 
+ ### *Entre em contato* 
+ ***
+ <div>
+ <a href="https://github.com/bernardocostaa"</a> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank">
+  <a href="https://mail.google.com/mail/u/0/#inbox?compose=new"</a> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 
-![html5 (1)](https://user-images.githubusercontent.com/73037458/128079481-6d9d7560-ea55-4c02-b92b-3943d6b77cd8.png)
-![css-3](https://user-images.githubusercontent.com/73037458/128079708-1e2d8f9b-cf5d-4687-919a-f2805e204541.png)
-![wordpress](https://user-images.githubusercontent.com/73037458/128080162-fa684e91-7fa8-43ef-9774-c5d7c02bd3fb.png)
-![php](https://user-images.githubusercontent.com/73037458/128080614-72e88d51-f615-4dd0-8768-d2548a8ba202.png)
-
-
-
-
+<div>
 
 
 
