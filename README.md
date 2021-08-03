@@ -1,5 +1,7 @@
 ##  *Hello World!* <img height="30em" src="https://user-images.githubusercontent.com/73037458/127948921-5df98bf3-268d-4c53-9425-6b240e9e571d.gif">
-# README EM CONSTRUÇÃO, EM BREVE ESTARÁ DISPONIVEL...
+
+## *Sobre mim* :thought_balloon:
+Bem-vindo! Meu nome é Bernardo Costa, sou do Brasil e venho atuando na área de **Desenvolvimento Web**, como ainda estou na faculdade pretendo expandir meu conhecimento e experimentar novas áreas. Estou sempre em busca de eloluir e enfrentar novos desafios, busco sempre me aperfeiçoar quando tenho tempo, sou muito dedicado e não desisto fácil.
 
 <!---
 bernardocostaa/bernardocostaa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
