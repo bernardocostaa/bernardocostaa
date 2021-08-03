@@ -21,8 +21,7 @@ Bem-vindo! Meu nome é Bernardo Costa, sou do Brasil e venho atuando na área de
 
 Em breve!!
 
-[Ultimo site feito em WordPress!](https://p4consulting.com.br/)
-
+<a href="https://p4consulting.com.br/" target="_blank">Último site feito em WordPress!</a>
 
 
 <!---
