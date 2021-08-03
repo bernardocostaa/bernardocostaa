@@ -38,7 +38,7 @@ Em breve!!
  <a href="https://github.com/bernardocostaa"</a> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank">
  <a href="mailto:bfvcc01@gmail.com"</a> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
   <a href="https://www.linkedin.com/in/bernardo-costa-561b491b8/"</a> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-  <a href="https://api.whatsapp.com/send?phone=5521999276614&text=Olá"</a> <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
+  <a href="https://api.whatsapp.com/send?phone=5521999276614&text="</a> <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank" >
 <div>
 
 
