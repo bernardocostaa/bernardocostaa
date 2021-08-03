@@ -7,21 +7,24 @@ Bem-vindo! Meu nome é Bernardo Costa, sou do Brasil e venho atuando na área de
 
  <img width="300" align="right" alt="Business_PNG" src="https://user-images.githubusercontent.com/73037458/128029880-8de702a7-e12c-4088-ba63-5e9931ae5e5c.png">
 
+## *Portfólio* :page_with_curl:
+
+Em breve!!
+
+<a href="https://p4consulting.com.br/" target="_blank">Último site feito em WordPress!</a>
 
 ## *Habilidades* :computer:
 
-### *Em andamento*
+### *Em andamento...* 
 
 * PHP com MySQL...
 * MySQL...
 * Adequando sites e lojas virtuais em WordPress à LGPD...
 * PHP POO
 
-## Portfólio 
+### *Competências*
 
-Em breve!!
 
-<a href="https://p4consulting.com.br/" target="_blank">Último site feito em WordPress!</a>
 
 
 <!---
