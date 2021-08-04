@@ -21,7 +21,7 @@ Em breve!!
 * Adequando sites e lojas virtuais em WordPress à LGPD...
 * PHP POO
 
-### *Competências(Com certificado)*
+### *Competências*
 
 
 
