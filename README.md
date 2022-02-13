@@ -10,7 +10,7 @@ Bem-vindo! Meu nome é Bernardo Costa, sou Brasileiro e venho atuando na área d
 
 Em breve!!
 
-<a href="https://github.com/bernardocostaa/bernardocostaa/blob/main/Curr%C3%ADculoBernardo.pdf" >Currículo</a>
+<a href="CurrículoBernardo.pdf" download>Click to Download</a>
 
 <a href="https://p4consulting.com.br/" target="_blank">Último site feito em WordPress!</a>
 
