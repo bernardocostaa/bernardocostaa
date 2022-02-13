@@ -6,7 +6,7 @@ Bem-vindo! Meu nome é Bernardo Costa, sou Brasileiro e venho atuando na área d
 
  <img width="300" align="right" alt="Business_PNG" src="https://user-images.githubusercontent.com/73037458/128029880-8de702a7-e12c-4088-ba63-5e9931ae5e5c.png">
 
-## *Portfólio* :page_with_curl:
+## *Portfólio/Currículo* :page_with_curl:
 
 Em breve!!
 
