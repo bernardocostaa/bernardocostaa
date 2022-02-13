@@ -10,10 +10,10 @@ Bem-vindo! Meu nome é Bernardo Costa, sou Brasileiro e venho atuando na área d
 
 Em breve!!
 
-[<Currículo>](CurrículoBernardo.pdf)>
-<a href="CurrículoBernardo.pdf" target="_blank">Currículo</a>
 
-<a href="https://p4consulting.com.br/" type= "application/pdf" >Último site feito em WordPress!</a>
+<a href="CurrículoBernardo.pdf" type= "application/pdf">Currículo</a>
+
+<a href="https://p4consulting.com.br/" target="_blank" >Último site feito em WordPress!</a>
 
 
 
