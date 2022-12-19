@@ -22,7 +22,7 @@ Em breve!!
 ### *Em andamento...* 
 
 * React Completo...
-* CSS Grid...
+* Banco de Dados...
 * JavaScript...
 
 ### *Competências*
@@ -34,6 +34,7 @@ Em breve!!
 <img hspace="20" src="https://user-images.githubusercontent.com/73037458/128079708-1e2d8f9b-cf5d-4687-919a-f2805e204541.png">
 <img hspace="20" src="https://user-images.githubusercontent.com/73037458/128080162-fa684e91-7fa8-43ef-9774-c5d7c02bd3fb.png">
 <img hspace="20" src="https://user-images.githubusercontent.com/73037458/128080614-72e88d51-f615-4dd0-8768-d2548a8ba202.png">
+<img hspace="20" src="javascript-plain.svg" width='64'>
 <div>
  
  ### *Entre em contato*:globe_with_meridians: 
