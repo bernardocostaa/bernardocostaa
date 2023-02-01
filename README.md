@@ -17,3 +17,19 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 </div>
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
+
+---
+### :woman_technologist: Sobre Mim:
+
+Eu Sou Desenvolvedor Front-End <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+
+- :telescope: Trabalhando na Imóvel Guide na parte do front-end, desenvolvendo novas paginas e trabalhando no versionamento do código.
+
+- :seedling: Exploring Technical Content Writing.
+
+- :zap: No meu tempo livre, estudo com cursos como B7Web, Origamid e desenvolvo projetos pessoais, afim de melhorar minhas habilidades.
+
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
