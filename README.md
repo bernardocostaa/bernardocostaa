@@ -69,5 +69,6 @@ Eu Sou Desenvolvedor Front-End <img src="https://media.giphy.com/media/WUlplcMpO
 
 ### 📑Portfólio/Currículo :
 
-<a href="https://bcdesenvolvimento.com/">Portfólio</a>
-<a href="https://bcdesenvolvimento.com/">Currículo</a>
+<a href="https://bcdesenvolvimento.com/" target="_blank">Portfólio</a>
+<br>
+<a href="https://github.com/bernardocostaa/bernardocostaa/blob/main/curriculo.pdf/" target="_blank">Currículo</a>
