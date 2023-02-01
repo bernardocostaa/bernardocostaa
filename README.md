@@ -22,14 +22,18 @@
 </div>
 
 ---
-### :woman_technologist: Sobre Mim:
+### :woman_technologist: Sobre Mim :
 
 Eu Sou Desenvolvedor Front-End <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
-- :telescope: Trabalhando na Imóvel Guide na parte do front-end, desenvolvendo novas paginas e trabalhando no versionamento do código.
+- :telescope: Comecei minha jornada como desenvolvedor front-end na empresa Imóvel Guide em São Paulo que é uma empresa que alcança 40 mil requisições. Onde tive a oportunidade de fazer a criação de páginas na web aplicando os conceitos de UI/UX e responsividade mobile, participei da elaboração dos layouts usados nas páginas da empresa.
 
-- :seedling: Exploring Technical Content Writing.
+- :seedling: No meu tempo livre, estudo com cursos como B7Web, Origamid e desenvolvo projetos pessoais, afim de melhorar minhas habilidades.
 
-- :zap: No meu tempo livre, estudo com cursos como B7Web, Origamid e desenvolvo projetos pessoais, afim de melhorar minhas habilidades.
+- :zap:Nesse momento,  minha experiência está direcionada para o front-end, sempre estou buscando aprender mais para me aperfeiçoar. Minhas competências principais  são: HTML5, CSS3, JavaScript, UX/UI Designer, Git , Bootstrap e Banco de Dados
 
 - :mailbox:Entre em contato: [![Linkedin Badge](https://img.shields.io/badge/-BernardoCosta-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/bernardo-costa-561b491b8/)
+
+---
+
+### :hammer_and_wrench: Linguagens e Ferramentas :
