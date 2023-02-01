@@ -24,7 +24,7 @@
 ---
 ### :woman_technologist: Sobre Mim :
 
-Eu Sou Desenvolvedor Front-End <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+Eu Sou Desenvolvedor Front-End e Freelancer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 - :telescope: Comecei minha jornada como desenvolvedor front-end na empresa Imóvel Guide em São Paulo que é uma empresa que alcança 40 mil requisições. Onde tive a oportunidade de fazer a criação de páginas na web aplicando os conceitos de UI/UX e responsividade mobile, participei da elaboração dos layouts usados nas páginas da empresa.
 
@@ -72,3 +72,7 @@ Eu Sou Desenvolvedor Front-End <img src="https://media.giphy.com/media/WUlplcMpO
 <a target="_blank" href="https://bcdesenvolvimento.com/">Portfólio</a>
 <br>
 <a href="https://github.com/bernardocostaa/bernardocostaa/blob/main/curriculo.pdf/">Currículo</a>
+<br>
+<a href="https://bernardocostaa.github.io/AutoCar/" target="_blank">Projeto em Andamento</a>
+
+
