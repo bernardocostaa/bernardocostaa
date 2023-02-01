@@ -52,7 +52,7 @@ Eu Sou Desenvolvedor Front-End <img src="https://media.giphy.com/media/WUlplcMpO
 </div>
 
 ---
-### 📑 Em Andamento
+### 🚧 Em Andamento
 - Sass 
 - React
 - TypeScript
@@ -61,5 +61,13 @@ Eu Sou Desenvolvedor Front-End <img src="https://media.giphy.com/media/WUlplcMpO
 
 ### :fire: Minhas Estatísticas :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=bernardocostaa&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=bernardocostaa&theme=dark&locale=pt_BR)](https://git.io/streak-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bernardocostaa&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+### 📑Portfólio/Currículo :
+
+<a href="https://bcdesenvolvimento.com/">Portfólio</a>
+<a href="https://bcdesenvolvimento.com/">Currículo</a>
