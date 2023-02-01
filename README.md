@@ -32,4 +32,4 @@ Eu Sou Desenvolvedor Front-End <img src="https://media.giphy.com/media/WUlplcMpO
 
 - :zap: No meu tempo livre, estudo com cursos como B7Web, Origamid e desenvolvo projetos pessoais, afim de melhorar minhas habilidades.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
+- :mailbox:Entre em contato: [![Linkedin Badge](https://img.shields.io/badge/-BernardoCosta-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/bernardo-costa-561b491b8/)
