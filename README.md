@@ -26,7 +26,7 @@
 
 Eu Sou Desenvolvedor Front-End e Freelancer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
-- :telescope: Comecei minha jornada como desenvolvedor front-end na empresa Imóvel Guide em São Paulo que é uma empresa que alcança 40 mil requisições. Onde tive a oportunidade de fazer a criação de páginas na web aplicando os conceitos de UI/UX e responsividade mobile, participei da elaboração dos layouts usados nas páginas da empresa.
+- :telescope: Comecei minha jornada como desenvolvedor front-end na empresa Imóvel Guide em São Paulo que é uma empresa que alcança 40 mil acessos. Onde tive a oportunidade de fazer a criação de páginas na web aplicando os conceitos de UI/UX e responsividade mobile, participei da elaboração dos layouts usados nas páginas da empresa.
 
 - :seedling: No meu tempo livre, estudo com cursos como B7Web, Origamid e desenvolvo projetos pessoais, afim de melhorar minhas habilidades.
 
