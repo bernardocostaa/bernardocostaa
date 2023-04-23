@@ -52,8 +52,7 @@ Eu Sou Desenvolvedor Front-End e Freelancer <img src="https://media.giphy.com/me
 </div>
 
 ---
-### 🚧 Em Andamento
-- Sass 
+### 🚧 Em Andamento 
 - React
 - TypeScript
 
