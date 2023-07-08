@@ -53,9 +53,9 @@ Eu Sou Desenvolvedor Front-End e Freelancer <img src="https://media.giphy.com/me
 
 ---
 ### 🚧 Em Andamento 
-- React
+- React <img src="https://media.tenor.com/_dGu36t3VNEAAAAC/loading-buffering.gif" width="18">
 - TypeScript
-
+- WordPress Como CMS
 ---
 
 ### :fire: Minhas Estatísticas :
