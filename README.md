@@ -53,9 +53,9 @@ Eu Sou Desenvolvedor Front-End e Freelancer <img src="https://media.giphy.com/me
 
 ---
 ### 🚧 Em Andamento 
-- React <img src="https://media.tenor.com/_dGu36t3VNEAAAAC/loading-buffering.gif" width="18">
-- TypeScript
-- WordPress Como CMS
+- React <img src="https://github.com/bernardocostaa/bernardocostaa/blob/main/loading.gif" width="18">
+- TypeScript <img src="https://github.com/bernardocostaa/bernardocostaa/blob/main/loading.gif" width="18">
+- WordPress Como CMS <img src="https://github.com/bernardocostaa/bernardocostaa/blob/main/loading.gif" width="18">
 ---
 
 ### :fire: Minhas Estatísticas :
