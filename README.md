@@ -1,4 +1,4 @@
-<div id="header" align="center">
+<div id="header" align="center"> 
   <img src="https://media3.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width="100"/>
  <div id="badges">
   <a href="https://www.linkedin.com/in/bernardo-costa-561b491b8/">
