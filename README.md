@@ -4,6 +4,7 @@
   <a href="https://www.linkedin.com/in/bernardo-costa-561b491b8/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" target="_blank"/>
   </a>
+    <a href="https://www.instagram.com/becode_dev/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="mailto:bfvcc01@gmail.com">
     <img  src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" alt="Youtube Badge"/>
   </a>
